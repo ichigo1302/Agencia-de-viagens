@@ -374,13 +374,12 @@ footer{
     }
 }
 
-@media(max-width;540px){
+@media(max-width:540px){
     .formulario-campo-duplo, .radio {
         flex-direction: column;
     }
 
     .formulario-campo-duplo div, .radio div {
         width: 100%;
-    }
     }
 }
